@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Słuchawki z redukcją szumów",
+    "price": 1299,
+    "url": "https://example.com/sluchawki",
+    "rank": 1,
+    "reason": "W open spasie nie słyszę własnych myśli."
+  },
+  {
+    "name": "Żeliwny garnek",
+    "price": 379,
+    "url": "https://example.com/garnek",
+    "rank": 3,
+    "reason": "Do chleba na zakwasie."
+  },
+  {
+    "name": "Skarpety w renifery",
+    "price": 39.90,
+    "url": "https://example.com/skarpety",
+    "rank": 5
+  }
+]

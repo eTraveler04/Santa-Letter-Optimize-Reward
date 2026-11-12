@@ -1,0 +1,30 @@
+# zależności i build
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+
+# sekrety: wszystkie pliki .env poza wzorcem
+.env
+.env.*
+!.env.example
+
+# dane i kopie bazy
+data
+backups
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+dump.sql
+
+# logi
+npm-debug.log*
+*.log
+
+# system i edytory
+.DS_Store
+.idea
+.vscode
+.claude

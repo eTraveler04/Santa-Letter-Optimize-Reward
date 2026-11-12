@@ -1,0 +1,13 @@
+services:
+  xmas:
+    build: .
+    image: xmas-wishlist
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file: .env
+    volumes:
+      - xmas-data:/data
+
+volumes:
+  xmas-data:

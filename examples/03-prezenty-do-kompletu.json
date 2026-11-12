@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Narty zjazdowe",
+    "price": 1899,
+    "url": "https://example.com/narty",
+    "rank": 1
+  },
+  {
+    "name": "Buty narciarskie",
+    "price": 1199,
+    "url": "https://example.com/buty",
+    "rank": 1
+  },
+  {
+    "name": "Kijki narciarskie",
+    "price": 149.99,
+    "url": "https://example.com/kijki",
+    "rank": 2
+  }
+]
